@@ -32,3 +32,39 @@ In the modern hospitality industry, efficiently managing hotel reservations is c
 ```bash
 git clone https://github.com/HarshitSeth77/HOTEL-RESERVATION-PROJECT.git
 ```
+
+
+2. Navigate to the project directory.
+```bash
+cd HOTEL-RESERVATION-PROJECT
+```
+
+
+3. Install the required dependencies.
+```bash
+pip install -r requirements.txt
+```
+
+4. Open the Jupyter Notebook to explore and run the project.
+```bash
+jupyter notebook HOTEL_RESERVATION_SYSTEM_PROJECT_USING_RANDOM_FOREST_CLASSIFIER.ipynb
+```
+
+
+## Data
+
+The dataset used for this project contains historical hotel reservation data, including information about guests, room types, booking dates, and more. The data has been anonymized and preprocessed for privacy and analysis purposes.
+
+## Contributions
+
+Contributions to this project are welcome! If you find any issues or opportunities for improvement, feel free to open a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+For any inquiries or collaborations, please contact HARSHIT SETH at harshitseth@hotmail.com.
+
+
